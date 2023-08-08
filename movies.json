@@ -1,0 +1,59 @@
+{
+  "__collections__": {
+    "movies": {
+      "74Sw9TFc5QPBPonOfyx9": {
+        "id": "RT3080",
+        "createdAt": "2021-08-18",
+        "paymentDue": "2021-08-19",
+        "description": "Re-branding",
+        "paymentTerms": 1,
+        "clientName": "Jensen Huang",
+        "clientEmail": "jensenh@mail.com",
+        "status": "paid",
+        
+        "senderStreet": "19 Union Terrace",
+        "senderCity": "London",
+        "senderPostCode": "E1 3EZ",
+        "senderCountry": "United Kingdom",
+        
+        
+        "clientStreet": "106 Kendell Street",
+        "clientCity": "Sharrington",
+        "clientPostCode": "NR24 5WQ",
+        "clientCountry": "United Kingdom",
+      
+        "items": [
+          {
+            "name": "Brand Guidelines",
+            "quantity": 1,
+            "price": 1800.9,
+            "total": 1800.9
+          }
+        ],
+        "total": 1800.9,
+        "__collections__": {}
+      },
+      "A2sP04VkxFSO4sW57cOF": {
+        "downloads": "21564232",
+        "releaseDate": "2005",
+        "category": "Animation",
+        "title": "Teenage Mutant Ninja Turtle",
+        "__collections__": {}
+      },
+      "eHGxiX7OA70bzMf1BwoF": {
+        "downloads": "5673632",
+        "releaseDate": "2004",
+        "category": "Drama",
+        "title": "The Pursuit of Happiness",
+        "__collections__": {}
+      },
+      "iiMMMomongUsdiOO0FWE": {
+        "downloads": "8736654",
+        "releaseDate": "2001",
+        "category": "Sci-fi",
+        "title": "Transformers",
+        "__collections__": {}
+      }
+    }
+  }
+}
